@@ -1,0 +1,38 @@
+body {
+background-color: #222831;
+}
+
+.heading{
+  background-color: #3f72af;
+  padding-bottom: 3%;
+}
+
+h1{
+  color: #fff;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 3%
+}
+
+.row{
+  background-color: #30475e ;
+  color: #fff;
+  text-align: center;
+  margin-top: 3%;
+  padding: 3%;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+}
+
+
+.ver:hover{
+  color: #f05454;
+}
+
+ .wer:hover{
+    color: #f05454;
+}
+
+a{
+  color: #fff;
+}
